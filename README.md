@@ -1,7 +1,8 @@
 # Getting Started with the Jotter App.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+<img width="1435" alt="sample1" src="https://user-images.githubusercontent.com/74923358/108228307-a5470600-7136-11eb-9eee-504d74587781.png">
+<img width="1435" alt="sample2" src="https://user-images.githubusercontent.com/74923358/108228347-af690480-7136-11eb-9777-3c0884ff7be7.png">
 
 
 ## Available Scripts

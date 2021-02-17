@@ -1,2 +1,4 @@
-# NoteTakingApp
-A project for note keeping/presenting I have developed with React JS. 
+# JotterApp
+A project for note keeping and presenting.
+
+I have developed this mainly with React JS, HTML/CSS/Javascript. I have yet to integrate back-end to allow users to save their notes but maybe I shall in the possible future! 
